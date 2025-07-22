@@ -1,0 +1,11 @@
+chr	start	stop	gene_name	Intron_ID	A	B	A1	A2	B1	B2	B3	domains	anchors	boundaries	LAD	SPAD	Class
+chr1	698959	827669	Gene_1	Intron_1	0	0	0	0	0	0	0	0	0	0	0	0	major
+chr1	711922	827669	Gene_2	Intron_2	1	0	1	0	0	0	0	0	0	0	0	0	major
+chr1	746818	756076	Gene_3	Intron_3	0	0	0	0	0	0	0	0	0	0	0	0	major
+chr1	756141	758966	Gene_4	Intron_4	0	0	0	0	0	0	0	0	0	0	0	0	major
+chr1	759123	764722	Gene_5	Intron_5	0	0	0	0	0	0	0	0	0	0	0	0	major
+chr1	761154	761777	Gene_6	Intron_6	0	0	0	0	0	0	0	0	0	0	0	0	major
+chr1	765247	766328	Gene_7	Intron_7	1	0	1	0	0	0	0	0	0	0	0	0	major
+chr1	766387	768547	Gene_8	Intron_8	1	0	1	0	0	0	0	0	0	0	0	0	major
+chr1	768613	769496	Gene_9	Intron_9	1	0	1	0	0	0	0	0	0	0	0	0	major
+chr1	768613	774170	Gene_10	Intron_10	1	0	1	0	0	0	0	0	0	0	0	0	major
