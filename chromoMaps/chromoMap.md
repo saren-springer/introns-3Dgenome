@@ -8,7 +8,7 @@ Citation: L. Anand, C. M. Rodriguez Lopez, ChromoMap: an R package for interacti
 Generate a chromoMap to visualize features of interest in each chromosome based on an input chromosomes.bed file and a text file with annotations of interest.
 
 ## Prior Use
-The following code was previously leveraged in Springer-Fleck et al. to visualize the distribution of rare intron classes per chromosome. The resulting chromoMap can be found in Figure. 1E. 
+The following code was previously leveraged in Springer, Fleck et al. to visualize the distribution of rare intron classes per chromosome. The resulting chromoMap can be found in Figure. 1E. 
 
 
 ## Input Files
