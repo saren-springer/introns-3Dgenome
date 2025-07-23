@@ -11,7 +11,7 @@ Create random control datasets for:
 These datasets can be intersected with 3D genome annotations to test enrichment patterns.
 
 ## Prior Use
-This method was used in Springer-Fleck et al. for Figures 2D and Supplemental Figures 4 and 5.
+This method was used in Springer, Fleck et al. for Figures 2D and Supplemental Figures 4 and 5.
 
 ## Input Files
 BED files for each intron class:
