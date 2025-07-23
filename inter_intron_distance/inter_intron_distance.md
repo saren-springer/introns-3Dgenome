@@ -7,7 +7,7 @@ Compute the distance between two neighboring genomic introns on the same chromos
 
 
 ## Prior Use
-The following code was previously leveraged in Springer-Fleck et al. to calculate the inter-intron distance for rare intron classes. The resulting distributions can be found in Figure. 1C. The relationship between inter-intron distance and intron count can be found in Figure. 1D. 
+The following code was previously leveraged in Springer, Fleck et al. to calculate the inter-intron distance for rare intron classes. The resulting distributions can be found in Figure. 1C. The relationship between inter-intron distance and intron count can be found in Figure. 1D. 
 
 
 ## Input Files
