@@ -11,7 +11,7 @@ Quantify intron density per 250 kb genomic window across chromosomes and by intr
 - Associated gene symbols per window
 
 ## Prior Use
-This method was used in Springer-Fleck et al. to compute intron density by class and visualize genome-wide distribution patterns. The resulting density plots are shown in Figure 1G and H as well as Figure S2.
+This method was used in Springer, Fleck et al. to compute intron density by class and visualize genome-wide distribution patterns. The resulting density plots are shown in Figure 1G and H as well as Figure S2.
 
 ## Input Files
 - CSV file of all introns with:
