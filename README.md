@@ -68,7 +68,7 @@ See [inter_intron_distance.md](inter_intron_distance/inter_intron_distance.md) f
 See [intron_density.md](intron_density/intron_density.md) for instructions on binning the human genome into equally sized bins. Download and unzip all_human_introns.zip to access all_human_introns.csv
 
 ### Bootstrapping and Pollution Analysis
-See [bootstrapping_pollution.md](bootstrapping_pollution/bootstrapping_pollution.md) for instructions for performing bootstrapping and pollution analysis as described in Springer-Fleck et al.
+See [bootstrapping_pollution.md](bootstrapping_pollution/bootstrapping_pollution.md) for instructions for performing bootstrapping and pollution analysis as described in Springer, Fleck et al.
 
 
 ## Citation
